@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **noureenaslam49@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, you can often find me experimenting in Kitchen.**
+- ⚡ Fun fact **When I'm not coding, you can often find me creating content.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
