@@ -91,15 +91,7 @@ mission: Build impactful AI products used by millions 🚀
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=noureen-aslam&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=8E2DE2&icon_color=4A00E0" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noureen-aslam&theme=radical&hide_border=true&background=1a1a2e&ring=8E2DE2&fire=4A00E0" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noureen-aslam&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=8E2DE2" width="49%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=noureen-aslam&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-
-<img src="https://raw.githubusercontent.com/noureen-aslam/noureen-aslam/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noureen-aslam&theme=radical&hide_border=true&background=1a1a2e&ring=8E2DE2&fire=4A00E0" width="70%"/>
 </div>
 
 <br/>
