@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;President%2C+VisionX+Club+%40+Presidency+University;Building+RAG+Pipelines+%2C+Voice+AI+%26+Agentic+Apps;Turning+Research+Papers+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;President%2C+VisionX+Club+%40+Presidency+University;Building+RAG+Pipelines+%2C+Voice+AI+%26+Agentic+Apps;Turning+Research+Papers+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
