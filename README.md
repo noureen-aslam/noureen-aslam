@@ -35,21 +35,47 @@ mission: Build impactful AI products used by millions 🚀
 
 <div align="center">
 
+**AI & Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-4A00E0?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Pytesseract-8E2DE2?style=for-the-badge&labelColor=1a1a2e"/>
+
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,html,css&theme=dark" />
 
-**Frameworks & Libraries**
+**Mobile Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" />
 
-**Databases & Cloud**
+**Frameworks & Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,docker,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,tailwind&theme=dark" />
 
-**Tools**
+**Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase&theme=dark" />
+
+**Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,docker&theme=dark" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+**Development Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />
 
 </div>
 
