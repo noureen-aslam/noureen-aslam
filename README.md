@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;President%2C+VisionX+Club+%40+Presidency+University;Building+RAG+Pipelines+%2C+Voice+AI+%26+Agentic+Apps;Turning+Research+Papers+Into+Real+Products+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;President%2C+VisionX+Club+%40+Presidency+University;Building+RAG+Pipelines+%2C+Voice+AI+%26+Agentic+Apps;Turning+Research+Papers+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -109,8 +109,8 @@ mission: Build impactful AI products used by millions 🚀
 <div align="center">
 
 <a href="https://noureenaslam.in"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/noureenaslam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:noureenaslam49@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/noureen-aslam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
