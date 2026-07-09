@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hi%20I'm%20Noureen%20Aslam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI-Powered%20Products%20That%20Matter&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6a11cb,100:4A00E0&height=230&section=header&text=Hi,%20I'm%20Noureen%20Aslam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=54&descSize=18" width="100%"/>
 
-<a href="https://noureenaslam.in">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-noureenaslam.in-8E2DE2?style=for-the-badge&labelColor=1a1a2e" />
-</a>
-<img src="https://img.shields.io/badge/📍_Bengaluru-India-4A00E0?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-2027-6a11cb?style=for-the-badge&labelColor=1a1a2e" />
+<a href="https://noureenaslam.in"><img src="https://img.shields.io/badge/🌐_Portfolio-noureenaslam.in-8E2DE2?style=for-the-badge&labelColor=0d0d1a"/></a>
+<img src="https://img.shields.io/badge/📍_Bengaluru-India-4A00E0?style=for-the-badge&labelColor=0d0d1a"/>
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-2027-6a11cb?style=for-the-badge&labelColor=0d0d1a"/>
+<img src="https://komarev.com/ghpvc/?username=noureen-aslam&style=for-the-badge&color=8e2de2&labelColor=0d0d1a"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%7C+Full-Stack+Developer;President%2C+VisionX+Club+%40+Presidency+University;Building+RAG+Pipelines+%2C+Voice+AI+%26+Agentic+Apps;Turning+Research+Papers+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+%26+Knowledge+Graphs;Shipping+Voice-AI+%26+Agentic+Apps;President%2C+VisionX+Club+%40+Presidency+University;Turning+Research+Papers+Into+Real+Products+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
@@ -19,14 +18,14 @@
 ## 💫 About Me
 
 ```yaml
-name: Noureen Aslam
-role: AI/ML Developer • Full-Stack Engineer • Content Creator
-education: B.Tech CSE, Presidency University, Bengaluru (CGPA 8.9)
-leadership: President @ VisionX Club — AI-focused student community
-research: Published NLP paper — DOI 10.5281/zenodo.17474067
-currently_building: IndustrAI — AI Industrial Knowledge Intelligence Platform
-portfolio: https://noureenaslam.in
-mission: Build impactful AI products used by millions 🚀
+name:              Noureen Aslam
+role:               AI/ML Developer • Full-Stack Engineer • Content Creator
+education:      B.Tech CSE, Presidency University, Bengaluru — CGPA 8.9
+leadership:    President @ VisionX Club — AI-focused student community
+research:        Published NLP paper — DOI 10.5281/zenodo.17474067
+currently:       Building IndustrAI — AI Industrial Knowledge Intelligence Platform
+portfolio:       https://noureenaslam.in
+mission:         Building AI products that solve real problems, at scale 🚀
 ```
 
 <br/>
@@ -35,47 +34,33 @@ mission: Build impactful AI products used by millions 🚀
 
 <div align="center">
 
-**AI & Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-4A00E0?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Pytesseract-8E2DE2?style=for-the-badge&labelColor=1a1a2e"/>
+**AI / ML / NLP**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&labelColor=0d0d1a"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,c,html,css&theme=dark" />
 
-**Mobile Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,c,html,css&theme=dark"/>
 
 **Frameworks & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,tailwind&theme=dark" />
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,tailwind&theme=dark"/>
 
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=gcp,docker&theme=dark" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+**Data, Cloud & DevOps**
 
-**Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,gcp,docker,git,github&theme=dark"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 
-**Development Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />
+**Mobile & Design**
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,figma&theme=dark"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 
 </div>
 
@@ -83,18 +68,62 @@ mission: Build impactful AI products used by millions 🚀
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🤖 **[IndustrAI](https://github.com/noureen-aslam/IndustrAI)** | AI-powered Industrial Knowledge Intelligence Platform — RAG + cross-document knowledge graph + audit-grade citations | `Next.js 15` `Supabase/pgvector` `Python` |
-| 🎙️ **[Recluta](https://github.com/noureen-aslam/recluta)** | AI interview coaching platform with a live animated recruiter avatar & real-time scoring | `FastAPI` `Gemini API` `ElevenLabs` `MediaPipe` |
-| 🛒 **Shophera** | Modern MERN E-Commerce Platform | `MongoDB` `Express` `React` `Node.js` |
-| 📄 **Resume Builder** | Professional resume builder with PDF export | `JavaScript` |
-| 🎮 **Sheepish Game** | OpenGL desktop game | `C++` `OpenGL` |
-| 🌐 **[Personal Portfolio](https://noureenaslam.in)** | My personal site — projects, research & resume | `React` `Vercel` |
+### 🤖 [IndustrAI](https://github.com/noureen-aslam/IndustrAI)
+AI-powered Industrial Knowledge Intelligence Platform — RAG pipeline + cross-document knowledge graph + audit-grade citations.
 
-</div>
+`Next.js 15` `Supabase/pgvector` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ [Recluta](https://github.com/noureen-aslam/recluta)
+AI interview-coaching platform with a live animated recruiter avatar, VAD-driven interaction, and a self-learning scoring pipeline.
+
+`FastAPI` `Gemini API` `ElevenLabs` `MediaPipe`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Shophera
+Modern MERN e-commerce platform with full cart, auth, and order flow.
+
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Personal Portfolio](https://noureenaslam.in)
+My site — projects, research, and resume, built and deployed end-to-end.
+
+`React` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Resume Builder
+Professional resume builder with clean PDF export.
+
+`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Sheepish Game
+A desktop game built from scratch with OpenGL.
+
+`C++` `OpenGL`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -102,13 +131,10 @@ mission: Build impactful AI products used by millions 🚀
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥈_1st_Runner--Up-State_Level_Hackathon_(500+_teams)-FFD700?style=for-the-badge&labelColor=1a1a2e"/>
-<br/>
-<img src="https://img.shields.io/badge/🏅_Top_85%2F1000-Odoo_x_CGC_National_Hackathon-C0C0C0?style=for-the-badge&labelColor=1a1a2e"/>
-<br/>
-<img src="https://img.shields.io/badge/📜_Published_Research-NLP_Paper-8E2DE2?style=for-the-badge&labelColor=1a1a2e"/>
-<br/>
-<img src="https://img.shields.io/badge/🎓_Certified-Google_Agentic_AI_•_Deloitte_Cybersecurity_•_Oracle-4A00E0?style=for-the-badge&labelColor=1a1a2e"/>
+🥈 **1st Runner-Up** — State-Level Hackathon (500+ teams)
+🏅 **Top 85 / 1,000** — Odoo × CGC National Hackathon
+📜 **Published Research** — NLP paper on Zenodo
+🎓 **Certified** — Google Agentic AI • Deloitte Cybersecurity • Oracle
 
 </div>
 
@@ -117,7 +143,18 @@ mission: Build impactful AI products used by millions 🚀
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noureen-aslam&theme=radical&hide_border=true&background=1a1a2e&ring=8E2DE2&fire=4A00E0" width="70%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=noureen-aslam&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8E2DE2&icon_color=4A00E0&text_color=c9c9d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noureen-aslam&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8E2DE2&text_color=c9c9d9" width="38%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noureen-aslam&theme=radical&hide_border=true&background=0d0d1a&ring=8E2DE2&fire=4A00E0" width="60%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noureen-aslam&theme=redical&hide_border=true&bg_color=0d0d1a&color=8E2DE2&line=4A00E0&point=ffffff" width="90%"/>
+
 </div>
 
 <br/>
@@ -139,6 +176,6 @@ mission: Build impactful AI products used by millions 🚀
 
 ### "Code. Learn. Build. Repeat." 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:6a11cb,100:8E2DE2&height=120&section=footer" width="100%"/>
 
 </div>
