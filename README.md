@@ -149,11 +149,11 @@ A desktop game built from scratch with OpenGL.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noureen-aslam&theme=radical&hide_border=true&background=0d0d1a&ring=8E2DE2&fire=4A00E0" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=noureen-aslam&theme=radical&hide_border=true&background=0d0d1a&ring=8E2DE2&fire=4A00E0" width="60%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noureen-aslam&theme=redical&hide_border=true&bg_color=0d0d1a&color=8E2DE2&line=4A00E0&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noureen-aslam&theme=radical&hide_border=true&bg_color=0d0d1a&color=8E2DE2&line=4A00E0&point=ffffff" width="90%"/>
 
 </div>
 
