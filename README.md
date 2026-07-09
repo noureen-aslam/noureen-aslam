@@ -144,8 +144,8 @@ A desktop game built from scratch with OpenGL.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=noureen-aslam&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8E2DE2&icon_color=4A00E0&text_color=c9c9d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noureen-aslam&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8E2DE2&text_color=c9c9d9" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=noureen-aslam&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8E2DE2&icon_color=4A00E0&text_color=c9c9d9" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=noureen-aslam&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=8E2DE2&text_color=c9c9d9" width="38%"/>
 
 <br/>
 
