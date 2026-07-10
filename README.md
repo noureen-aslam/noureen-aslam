@@ -34,15 +34,15 @@ mission:         Building AI products that solve real problems, at scale 🚀
 
 <div align="center">
 
-**AI / ML / NLP**
+**AI / ML / NLP** <sub>(hover any badge for a note)</sub>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&labelColor=0d0d1a"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" title="Model training & fine-tuning"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" title="LLM integration"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" title="Powers Recluta's scoring engine"/>
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&labelColor=0d0d1a" title="BERT fine-tuning, transformers"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" title="RAG pipelines in IndustrAI"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" title="NLP preprocessing"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" title="Vector search for IndustrAI's knowledge graph"/>
 
 **Languages**
 
@@ -136,7 +136,25 @@ A desktop game built from scratch with OpenGL.
 📜 **Published Research** — NLP paper on Zenodo
 🎓 **Certified** — Google Agentic AI • Deloitte Cybersecurity • Oracle
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=noureen-aslam&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%"/>
+
 </div>
+
+<br/>
+
+<details>
+<summary><b>💡 A few fun facts (click to expand)</b></summary>
+<br/>
+
+- 🔭 Currently building **IndustrAI** for the ET AI Hackathon 2.0 — RAG + knowledge graphs + pgvector
+- 🌱 Deep in a self-learning ML pipeline for **Recluta**, with nightly Random Forest/XGBoost retraining
+- 🎤 Also do voiceover & video production work alongside dev — content and code, same energy
+- 🇮🇳 Building for vernacular / Indian-market users is a running theme across my projects
+- ⚡ Fun fact: my research paper is on NLP — you can find it on Zenodo
+
+</details>
 
 <br/>
 
