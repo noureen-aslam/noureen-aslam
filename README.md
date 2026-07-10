@@ -138,7 +138,10 @@ A desktop game built from scratch with OpenGL.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=noureen-aslam&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%"/>
+<img src="https://img.shields.io/badge/🏆_Hackathon-1st_Runner--Up-FFD700?style=for-the-badge&labelColor=0d0d1a"/>
+<img src="https://img.shields.io/badge/🎯_National_Rank-Top_85%2F1000-C0C0C0?style=for-the-badge&labelColor=0d0d1a"/>
+<img src="https://img.shields.io/badge/📜_Research-Published_on_Zenodo-8E2DE2?style=for-the-badge&labelColor=0d0d1a"/>
+<img src="https://img.shields.io/badge/⭐_CGPA-8.9%2F10-4A00E0?style=for-the-badge&labelColor=0d0d1a"/>
 
 </div>
 
