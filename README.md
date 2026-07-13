@@ -263,9 +263,6 @@ Published on Zenodo
 DOI:
 `10.5281/zenodo.17474067`
 
-📄 Read Paper
-
-YOUR_RESEARCH_LINK
 
 ---
 
