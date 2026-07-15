@@ -242,13 +242,13 @@ https://noureenaslam.in
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=noureen-aslam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=noureen-aslam&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noureen-aslam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noureen-aslam&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=noureen-aslam&theme=tokyo-night&hide_border=true"/>
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=noureen-aslam&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
