@@ -250,6 +250,10 @@ https://noureenaslam.in
 
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=noureen-aslam&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
 
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=noureen-aslam&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
