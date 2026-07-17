@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7C3AED,50:8B5CF6,100:A855F7&text=Noureen%20Aslam&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:39FF14,50:00FFF5,100:0FFF50&text=Noureen%20Aslam&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Researcher&descAlignY=58&descSize=18" width="100%"/>
 
 # Building AI products that solve real-world problems.
 
@@ -9,7 +9,7 @@ AI/ML Engineer • Full-Stack Developer • Researcher • President @ VisionX C
 <br/>
 
 <a href="https://noureenaslam.in">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/noureenaslam/">
@@ -26,7 +26,7 @@ AI/ML Engineer • Full-Stack Developer • Researcher • President @ VisionX C
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=700&lines=Building+RAG+Pipelines;Knowledge+Graphs+%2B+AI+Agents;Shipping+Production+Ready+Applications;Research+Driven+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=700&color=00FFF5&center=true&vCenter=true&width=700&lines=Building+RAG+Pipelines;Knowledge+Graphs+%2B+AI+Agents;Shipping+Production+Ready+Applications;Research+Driven+Engineering" />
 
 </div>
 
@@ -307,4 +307,4 @@ GitHub
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A855F7,50:8B5CF6,100:7C3AED"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0FFF50,50:00FFF5,100:39FF14"/>
