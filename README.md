@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:39FF14,50:00FFF5,100:0FFF50&text=Noureen%20Aslam&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FF6EC7,50:00FFF5,100:FF1493&text=Noureen%20Aslam&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Researcher&descAlignY=58&descSize=18" width="100%"/>
 
 # Building AI products that solve real-world problems.
 
@@ -8,7 +8,7 @@ AI/ML Engineer • Full-Stack Developer • Researcher • President @ VisionX C
 <br/>
 
 <a href="https://noureenaslam.in">
-  <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 <a href="https://www.linkedin.com/in/noureenaslam/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -227,4 +227,4 @@ DOI: `10.5281/zenodo.17474067`
 ⭐ Thanks for visiting!
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0FFF50,50:00FFF5,100:39FF14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF1493,50:00FFF5,100:FF6EC7"/>
