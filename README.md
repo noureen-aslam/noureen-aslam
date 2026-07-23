@@ -23,6 +23,7 @@ AI/ML Engineer • Full-Stack Developer • Researcher • President @ VisionX C
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=700&color=00FFF5&center=true&vCenter=true&width=700&lines=Building+RAG+Pipelines;Knowledge+Graphs+%2B+AI+Agents;Shipping+Production+Ready+Applications;Research+Driven+Engineering" />
+
 </div>
 
 ---
@@ -34,6 +35,7 @@ I'm a **pre-final year Computer Science student** passionate about building prod
 Currently focused on solving real-world industrial problems using AI while actively participating in hackathons, research, and open-source development.
 
 ### Quick Snapshot
+
 - 🎓 B.Tech Computer Science — Presidency University (2027)
 - 📍 Bengaluru, India
 - 🏆 President, VisionX Club
@@ -43,12 +45,14 @@ Currently focused on solving real-world industrial problems using AI while activ
 
 ---
 
-# 🚀 Currently Building
+# 🚀 Shipped
 
 ## 🏭 IndustrAI
-An enterprise AI platform for industrial document intelligence.
+
+An enterprise AI platform for industrial document intelligence — built solo for the ET AI Hackathon 2.0 (ET × Unstop).
 
 ### Features
+
 - Multi-document RAG
 - Knowledge Graphs
 - Cross-document reasoning
@@ -60,12 +64,25 @@ An enterprise AI platform for industrial document intelligence.
 
 **Tech** `Next.js 15` `FastAPI` `Claude` `Cohere` `Supabase` `pgvector` `Neo4j` `Docker`
 
+### The Build
+
+Went in solo and shipped end-to-end — from ingestion to a working GraphRAG system — inside the hackathon window. The hardest parts weren't any single feature, they were making the pieces cohere:
+
+- **Hybrid retrieval** — blending pgvector similarity search with Neo4j graph traversal so answers pull from both semantic nearness and actual document relationships, not just embedding distance.
+- **Cross-document reasoning** — getting the system to synthesize an answer that spans multiple source documents instead of retrieving isolated chunks, while keeping every claim traceable back to a citation.
+- **OCR + messy industrial docs** — industrial PDFs are inconsistent (scanned pages, tables, diagrams), so the ingestion pipeline had to normalize all of that before anything could be embedded or graphed reliably.
+- **Voice AI on top of RAG** — layering a voice interface onto a retrieval pipeline that already had to stay fast and citation-accurate added a real latency budget to work within.
+
+Shipped as a working, judged submission — not a mockup.
+
 ---
 
 ## 🎙 Recluta
+
 AI Interview Coaching Platform
 
 Features
+
 - AI Recruiter Avatar
 - Voice Conversations
 - Resume Analysis
@@ -80,21 +97,25 @@ Tech `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python`
 # 🛠 Tech Stack
 
 ## Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,html,css"/>
 </p>
 
 ## Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
 ## Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
 ## AI / ML
+
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
@@ -107,6 +128,7 @@ Tech `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python`
 - spaCy
 
 ## Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres"/>
 </p>
@@ -114,11 +136,13 @@ Tech `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python`
 - pgvector
 
 ## DevOps
+
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,gcp"/>
 </p>
 
 ## Design
+
 <p>
 <img src="https://skillicons.dev/icons?i=figma,firebase,flutter"/>
 </p>
@@ -128,7 +152,9 @@ Tech `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python`
 # 🌟 Featured Projects
 
 ## 🏭 IndustrAI
+
 Industrial Knowledge Intelligence Platform
+
 - GraphRAG
 - Knowledge Graph
 - Hybrid Retrieval
@@ -141,7 +167,9 @@ Industrial Knowledge Intelligence Platform
 ---
 
 ## 🎙 Recluta
+
 AI Interview Coach
+
 - AI Recruiter
 - Resume Evaluation
 - Voice Conversation
@@ -153,7 +181,9 @@ Stack FastAPI • Gemini • ElevenLabs • MediaPipe
 ---
 
 ## ✈️ VOYEX
+
 Modern Trip Planner
+
 - Authentication
 - Trip Management
 - Docker Deployment
@@ -163,6 +193,7 @@ Stack React • Java • Jakarta EE
 ---
 
 ## 🛒 Shophera
+
 Full-stack MERN eCommerce Platform
 
 Stack MongoDB • Express • React • Node.js
@@ -170,12 +201,14 @@ Stack MongoDB • Express • React • Node.js
 ---
 
 ## 🌐 Portfolio
+
 Personal Website
 https://noureenaslam.in
 
 ---
 
 # 📈 Highlights
+
 🏆 State-Level Hackathon — **1st Runner-Up**
 🏅 Odoo × CGC National Hackathon — **Top 85 / 1000**
 📄 Published NLP Research
@@ -189,22 +222,30 @@ https://noureenaslam.in
 <div align="center">
 <img width="48%" src="https://github-stats-extended.vercel.app/api?username=noureen-aslam&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noureen-aslam&layout=compact&theme=tokyonight&hide_border=true"/>
+
 <br/><br/>
+
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=noureen-aslam&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
+
 <br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=noureen-aslam&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
 # 📚 Research
+
 ### Natural Language Processing Research
+
 Published on Zenodo
 DOI: `10.5281/zenodo.17474067`
 
 ---
 
 # 💡 Engineering Philosophy
+
 > Build products that solve real problems.
 
 - Simplicity over complexity.
@@ -217,6 +258,7 @@ DOI: `10.5281/zenodo.17474067`
 # 🤝 Let's Connect
 
 <div align="center">
+
 <a href="https://noureenaslam.in">Portfolio</a> •
 <a href="https://www.linkedin.com/in/noureenaslam/">LinkedIn</a> •
 <a href="mailto:noureenaslam49@gmail.com">Email</a> •
@@ -225,6 +267,7 @@ DOI: `10.5281/zenodo.17474067`
 <br/><br/>
 
 ⭐ Thanks for visiting!
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF1493,50:00FFF5,100:FF6EC7"/>
