@@ -28,8 +28,7 @@ AI/ML Engineer · Full-Stack Developer · Researcher · President, VisionX Club
 
 Pre-final year Computer Science student building production-grade AI systems — combining LLMs, Retrieval-Augmented Generation, knowledge graphs, and modern full-stack engineering. Currently focused on applying AI to real industrial problems, alongside hackathons, research, and open-source work.
 
-| | |
-|---|---|
+|:---|:---|:---|:---|:---|
 | **Education** | B.Tech Computer Science, Presidency University (2027) · CGPA 8.9 |
 | **Location** | Bengaluru, India |
 | **Role** | President, VisionX Club |
@@ -45,8 +44,7 @@ Pre-final year Computer Science student building production-grade AI systems —
 
 Enterprise AI platform for industrial document intelligence, built solo for the ET AI Hackathon 2.0 (ET × Unstop).
 
-| | |
-|---|---|
+|:---|:---|:---|:---|:---|
 | **Capabilities** | Multi-document RAG · Knowledge graphs · Cross-document reasoning · Voice AI · Audit-grade citations · OCR pipeline · Hybrid search · Graph visualization |
 | **Stack** | `Next.js 15` `FastAPI` `Claude` `Cohere` `Supabase` `pgvector` `Neo4j` `Docker` |
 | **Role** | Solo build, end-to-end |
@@ -55,7 +53,7 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 **Engineering challenges**
 
 | Challenge | What it took |
-|---|---|
+|:---|:---|
 | Hybrid retrieval | Combined pgvector similarity search with Neo4j graph traversal, so answers draw on semantic nearness *and* actual document relationships |
 | Cross-document reasoning | Synthesized answers spanning multiple source documents rather than isolated chunks, with every claim traceable to a citation |
 | OCR on inconsistent documents | Normalized scans, tables, and diagrams from messy industrial PDFs before reliable embedding/graphing was possible |
@@ -63,8 +61,7 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 
 ### Recluta — AI Interview Coaching Platform
 
-| | |
-|---|---|
+|:---|:---|:---|:---|:---|
 | **Capabilities** | AI recruiter avatar · Voice conversations · Resume analysis · AI feedback · Lip sync · Self-learning scoring pipeline |
 | **Stack** | `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python` |
 
@@ -73,7 +70,7 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 ## Tech Stack
 
 | Category | Tools |
-|---|---|
+|:---|:---|
 | **Languages** | Python · Java · TypeScript · JavaScript · C · HTML · CSS |
 | **Frontend** | React · Next.js · Tailwind |
 | **Backend** | Node.js · Express · FastAPI |
@@ -93,7 +90,7 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 ## Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
+|:---|:---|:---|
 | **IndustrAI** | Industrial knowledge intelligence platform — GraphRAG, knowledge graph, hybrid retrieval, OCR, cross-document reasoning, voice assistant | Next.js · Claude · Cohere · Supabase · pgvector |
 | **Recluta** | AI interview coach — AI recruiter, resume evaluation, voice conversation, lip sync, feedback engine | FastAPI · Gemini · ElevenLabs · MediaPipe |
 | **VOYEX** | Modern trip planner — authentication, trip management, Docker deployment | React · Java · Jakarta EE |
@@ -105,7 +102,7 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 ## Highlights
 
 | Achievement | Detail |
-|---|---|
+|:---|:---|
 | State-Level Hackathon | 1st Runner-Up |
 | Odoo × CGC National Hackathon | Top 85 / 1000 |
 | Research | Published NLP research paper |
@@ -134,8 +131,7 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 
 ## Research
 
-| | |
-|---|---|
+|:---|:---|:---|:---|:---|
 | **Title** | Natural Language Processing Research |
 | **Published** | Zenodo |
 | **DOI** | [`10.5281/zenodo.17474067`](https://doi.org/10.5281/zenodo.17474067) |
@@ -147,7 +143,7 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 > Build products that solve real problems.
 
 | Principle |
-|---|
+|:---|
 | Simplicity over complexity |
 | Ship fast, iterate faster |
 | AI should explain itself |
@@ -158,7 +154,7 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 ## Contact
 
 | Channel | Link |
-|---|---|
+|:---|:---|
 | Portfolio | [noureenaslam.in](https://noureenaslam.in) |
 | LinkedIn | [linkedin.com/in/noureenaslam](https://www.linkedin.com/in/noureenaslam/) |
 | Email | [noureenaslam49@gmail.com](mailto:noureenaslam49@gmail.com) |
