@@ -45,53 +45,48 @@ Pre-final year Computer Science student building production-grade AI systems —
 
 Enterprise AI platform for industrial document intelligence, built solo for the ET AI Hackathon 2.0 (ET × Unstop).
 
-**Capabilities:** multi-document RAG · knowledge graphs · cross-document reasoning · voice AI · audit-grade citations · OCR pipeline · hybrid search · graph visualization
+| | |
+|---|---|
+| **Capabilities** | Multi-document RAG · Knowledge graphs · Cross-document reasoning · Voice AI · Audit-grade citations · OCR pipeline · Hybrid search · Graph visualization |
+| **Stack** | `Next.js 15` `FastAPI` `Claude` `Cohere` `Supabase` `pgvector` `Neo4j` `Docker` |
+| **Role** | Solo build, end-to-end |
+| **Outcome** | Delivered as a working, judged submission |
 
-**Stack:** `Next.js 15` `FastAPI` `Claude` `Cohere` `Supabase` `pgvector` `Neo4j` `Docker`
+**Engineering challenges**
 
-Built end-to-end solo, from ingestion through a working GraphRAG system, within the hackathon window. The core engineering challenges:
-
-- **Hybrid retrieval** — combining pgvector similarity search with Neo4j graph traversal so answers draw on both semantic nearness and actual document relationships, not embedding distance alone.
-- **Cross-document reasoning** — synthesizing answers that span multiple source documents rather than isolated chunks, while keeping every claim traceable to a citation.
-- **OCR on inconsistent documents** — industrial PDFs mix scans, tables, and diagrams; the ingestion pipeline had to normalize all of it before reliable embedding and graphing was possible.
-- **Voice AI on a RAG pipeline** — adding a voice interface introduced a real latency budget on top of a system that already had to stay fast and citation-accurate.
-
-Delivered as a working, judged submission.
+| Challenge | What it took |
+|---|---|
+| Hybrid retrieval | Combined pgvector similarity search with Neo4j graph traversal, so answers draw on semantic nearness *and* actual document relationships |
+| Cross-document reasoning | Synthesized answers spanning multiple source documents rather than isolated chunks, with every claim traceable to a citation |
+| OCR on inconsistent documents | Normalized scans, tables, and diagrams from messy industrial PDFs before reliable embedding/graphing was possible |
+| Voice AI on a RAG pipeline | Added a voice interface within a real latency budget, without breaking retrieval speed or citation accuracy |
 
 ### Recluta — AI Interview Coaching Platform
 
-**Capabilities:** AI recruiter avatar · voice conversations · resume analysis · AI feedback · lip sync · self-learning scoring pipeline
-
-**Stack:** `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python`
+| | |
+|---|---|
+| **Capabilities** | AI recruiter avatar · Voice conversations · Resume analysis · AI feedback · Lip sync · Self-learning scoring pipeline |
+| **Stack** | `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python` |
 
 <br/>
 
 ## Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,html,css"/></p>
+| Category | Tools |
+|---|---|
+| **Languages** | Python · Java · TypeScript · JavaScript · C · HTML · CSS |
+| **Frontend** | React · Next.js · Tailwind |
+| **Backend** | Node.js · Express · FastAPI |
+| **AI / ML** | TensorFlow · PyTorch · LangChain · Hugging Face · Claude API · Gemini API · Cohere · spaCy |
+| **Database** | MongoDB · MySQL · Supabase · PostgreSQL · pgvector |
+| **DevOps** | Docker · Git · GitHub · GCP |
+| **Design** | Figma · Firebase · Flutter |
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/></p>
+<div align="center">
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/></p>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,html,css,react,nextjs,tailwind,nodejs,express,fastapi,tensorflow,pytorch,mongodb,mysql,supabase,postgres,docker,git,github,gcp,figma,firebase,flutter"/>
 
-**AI / ML**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
-
-LangChain · Hugging Face · Claude API · Gemini API · Cohere · spaCy
-
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres"/></p>
-
-pgvector
-
-**DevOps**
-<p><img src="https://skillicons.dev/icons?i=docker,git,github,gcp"/></p>
-
-**Design**
-<p><img src="https://skillicons.dev/icons?i=figma,firebase,flutter"/></p>
+</div>
 
 <br/>
 
@@ -109,11 +104,13 @@ pgvector
 
 ## Highlights
 
-- State-Level Hackathon — 1st Runner-Up
-- Odoo × CGC National Hackathon — Top 85 / 1000
-- Published NLP research paper
-- President, VisionX Club
-- CGPA — 8.9
+| Achievement | Detail |
+|---|---|
+| State-Level Hackathon | 1st Runner-Up |
+| Odoo × CGC National Hackathon | Top 85 / 1000 |
+| Research | Published NLP research paper |
+| Leadership | President, VisionX Club |
+| Academics | CGPA 8.9 |
 
 <br/>
 
@@ -137,8 +134,11 @@ pgvector
 
 ## Research
 
-**Natural Language Processing Research** — published on Zenodo
-DOI: [`10.5281/zenodo.17474067`](https://doi.org/10.5281/zenodo.17474067)
+| | |
+|---|---|
+| **Title** | Natural Language Processing Research |
+| **Published** | Zenodo |
+| **DOI** | [`10.5281/zenodo.17474067`](https://doi.org/10.5281/zenodo.17474067) |
 
 <br/>
 
@@ -146,22 +146,22 @@ DOI: [`10.5281/zenodo.17474067`](https://doi.org/10.5281/zenodo.17474067)
 
 > Build products that solve real problems.
 
-- Simplicity over complexity
-- Ship fast, iterate faster
-- AI should explain itself
-- Focus on production, not prototypes
+| Principle |
+|---|
+| Simplicity over complexity |
+| Ship fast, iterate faster |
+| AI should explain itself |
+| Focus on production, not prototypes |
 
 <br/>
 
 ## Contact
 
-<div align="center">
-
-<a href="https://noureenaslam.in">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/noureenaslam/">LinkedIn</a> ·
-<a href="mailto:noureenaslam49@gmail.com">Email</a> ·
-<a href="https://github.com/noureen-aslam">GitHub</a>
-
-</div>
+| Channel | Link |
+|---|---|
+| Portfolio | [noureenaslam.in](https://noureenaslam.in) |
+| LinkedIn | [linkedin.com/in/noureenaslam](https://www.linkedin.com/in/noureenaslam/) |
+| Email | [noureenaslam49@gmail.com](mailto:noureenaslam49@gmail.com) |
+| GitHub | [github.com/noureen-aslam](https://github.com/noureen-aslam) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=C2185B"/>
