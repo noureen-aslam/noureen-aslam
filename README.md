@@ -1,223 +1,123 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF69B4&text=Noureen%20Aslam&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=C2185B&text=Noureen%20Aslam&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20|%20Full-Stack%20Developer%20|%20Researcher&descAlignY=58&descSize=16" width="100%"/>
 
-# Building AI products that solve real-world problems.
+### Building AI products that solve real-world problems
 
-AI/ML Engineer • Full-Stack Developer • Researcher • President @ VisionX Club
+AI/ML Engineer · Full-Stack Developer · Researcher · President, VisionX Club
 
 <br/>
 
 <a href="https://noureenaslam.in">
-  <img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Portfolio-C2185B?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/noureenaslam/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:noureenaslam49@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/noureen-aslam">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&width=700&lines=Building+RAG+Pipelines;Knowledge+Graphs+%2B+AI+Agents;Shipping+Production+Ready+Applications;Research+Driven+Engineering" />
 
 </div>
 
----
+<br/>
 
-# 👋 About Me
+## About
 
-I'm a **pre-final year Computer Science student** passionate about building production-ready AI systems that combine **LLMs, Retrieval-Augmented Generation (RAG), Knowledge Graphs, NLP, and modern full-stack development**.
+Pre-final year Computer Science student building production-grade AI systems — combining LLMs, Retrieval-Augmented Generation, knowledge graphs, and modern full-stack engineering. Currently focused on applying AI to real industrial problems, alongside hackathons, research, and open-source work.
 
-Currently focused on solving real-world industrial problems using AI while actively participating in hackathons, research, and open-source development.
+| | |
+|---|---|
+| **Education** | B.Tech Computer Science, Presidency University (2027) · CGPA 8.9 |
+| **Location** | Bengaluru, India |
+| **Role** | President, VisionX Club |
+| **Research** | Published NLP research paper (DOI: [10.5281/zenodo.17474067](https://doi.org/10.5281/zenodo.17474067)) |
+| **Freelance** | Full-Stack Developer |
+| **Focus areas** | AI infrastructure, RAG, GraphRAG, agentic AI |
 
-### Quick Snapshot
+<br/>
 
-- 🎓 B.Tech Computer Science — Presidency University (2027)
-- 📍 Bengaluru, India
-- 🏆 President, VisionX Club
-- 📄 Published NLP Research
-- 🚀 Freelance Full-Stack Developer
-- ❤️ Interested in AI Infrastructure, RAG, GraphRAG, and Agentic AI
+## Shipped
 
----
+### IndustrAI — Industrial Knowledge Intelligence Platform
 
-# 🚀 Shipped
+Enterprise AI platform for industrial document intelligence, built solo for the ET AI Hackathon 2.0 (ET × Unstop).
 
-## 🏭 IndustrAI
+**Capabilities:** multi-document RAG · knowledge graphs · cross-document reasoning · voice AI · audit-grade citations · OCR pipeline · hybrid search · graph visualization
 
-An enterprise AI platform for industrial document intelligence — built solo for the ET AI Hackathon 2.0 (ET × Unstop).
+**Stack:** `Next.js 15` `FastAPI` `Claude` `Cohere` `Supabase` `pgvector` `Neo4j` `Docker`
 
-### Features
+Built end-to-end solo, from ingestion through a working GraphRAG system, within the hackathon window. The core engineering challenges:
 
-- Multi-document RAG
-- Knowledge Graphs
-- Cross-document reasoning
-- Voice AI
-- Audit-grade citations
-- OCR Pipeline
-- Hybrid Search
-- Graph Visualization
+- **Hybrid retrieval** — combining pgvector similarity search with Neo4j graph traversal so answers draw on both semantic nearness and actual document relationships, not embedding distance alone.
+- **Cross-document reasoning** — synthesizing answers that span multiple source documents rather than isolated chunks, while keeping every claim traceable to a citation.
+- **OCR on inconsistent documents** — industrial PDFs mix scans, tables, and diagrams; the ingestion pipeline had to normalize all of it before reliable embedding and graphing was possible.
+- **Voice AI on a RAG pipeline** — adding a voice interface introduced a real latency budget on top of a system that already had to stay fast and citation-accurate.
 
-**Tech** `Next.js 15` `FastAPI` `Claude` `Cohere` `Supabase` `pgvector` `Neo4j` `Docker`
+Delivered as a working, judged submission.
 
-### The Build
+### Recluta — AI Interview Coaching Platform
 
-Went in solo and shipped end-to-end — from ingestion to a working GraphRAG system — inside the hackathon window. The hardest parts weren't any single feature, they were making the pieces cohere:
+**Capabilities:** AI recruiter avatar · voice conversations · resume analysis · AI feedback · lip sync · self-learning scoring pipeline
 
-- **Hybrid retrieval** — blending pgvector similarity search with Neo4j graph traversal so answers pull from both semantic nearness and actual document relationships, not just embedding distance.
-- **Cross-document reasoning** — getting the system to synthesize an answer that spans multiple source documents instead of retrieving isolated chunks, while keeping every claim traceable back to a citation.
-- **OCR + messy industrial docs** — industrial PDFs are inconsistent (scanned pages, tables, diagrams), so the ingestion pipeline had to normalize all of that before anything could be embedded or graphed reliably.
-- **Voice AI on top of RAG** — layering a voice interface onto a retrieval pipeline that already had to stay fast and citation-accurate added a real latency budget to work within.
+**Stack:** `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python`
 
-Shipped as a working, judged submission — not a mockup.
+<br/>
 
----
+## Tech Stack
 
-## 🎙 Recluta
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,html,css"/></p>
 
-AI Interview Coaching Platform
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/></p>
 
-Features
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/></p>
 
-- AI Recruiter Avatar
-- Voice Conversations
-- Resume Analysis
-- AI Feedback
-- Lip Sync
-- Self-learning Scoring Pipeline
+**AI / ML**
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
 
-Tech `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python`
+LangChain · Hugging Face · Claude API · Gemini API · Cohere · spaCy
 
----
+**Database**
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres"/></p>
 
-# 🛠 Tech Stack
+pgvector
 
-## Languages
+**DevOps**
+<p><img src="https://skillicons.dev/icons?i=docker,git,github,gcp"/></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,html,css"/>
-</p>
+**Design**
+<p><img src="https://skillicons.dev/icons?i=figma,firebase,flutter"/></p>
 
-## Frontend
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
+## Featured Projects
 
-## Backend
+| Project | Description | Stack |
+|---|---|---|
+| **IndustrAI** | Industrial knowledge intelligence platform — GraphRAG, knowledge graph, hybrid retrieval, OCR, cross-document reasoning, voice assistant | Next.js · Claude · Cohere · Supabase · pgvector |
+| **Recluta** | AI interview coach — AI recruiter, resume evaluation, voice conversation, lip sync, feedback engine | FastAPI · Gemini · ElevenLabs · MediaPipe |
+| **VOYEX** | Modern trip planner — authentication, trip management, Docker deployment | React · Java · Jakarta EE |
+| **Shophera** | Full-stack MERN eCommerce platform | MongoDB · Express · React · Node.js |
+| **Portfolio** | Personal website — [noureenaslam.in](https://noureenaslam.in) | — |
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
+<br/>
 
-## AI / ML
+## Highlights
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+- State-Level Hackathon — 1st Runner-Up
+- Odoo × CGC National Hackathon — Top 85 / 1000
+- Published NLP research paper
+- President, VisionX Club
+- CGPA — 8.9
 
-- LangChain
-- Hugging Face
-- Claude API
-- Gemini API
-- Cohere
-- spaCy
+<br/>
 
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres"/>
-</p>
-
-- pgvector
-
-## DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,gcp"/>
-</p>
-
-## Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,firebase,flutter"/>
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🏭 IndustrAI
-
-Industrial Knowledge Intelligence Platform
-
-- GraphRAG
-- Knowledge Graph
-- Hybrid Retrieval
-- OCR
-- Cross-document reasoning
-- Voice Assistant
-
-**Stack** Next.js • Claude • Cohere • Supabase • pgvector
-
----
-
-## 🎙 Recluta
-
-AI Interview Coach
-
-- AI Recruiter
-- Resume Evaluation
-- Voice Conversation
-- Lip Sync
-- Feedback Engine
-
-Stack FastAPI • Gemini • ElevenLabs • MediaPipe
-
----
-
-## ✈️ VOYEX
-
-Modern Trip Planner
-
-- Authentication
-- Trip Management
-- Docker Deployment
-
-Stack React • Java • Jakarta EE
-
----
-
-## 🛒 Shophera
-
-Full-stack MERN eCommerce Platform
-
-Stack MongoDB • Express • React • Node.js
-
----
-
-## 🌐 Portfolio
-
-Personal Website
-https://noureenaslam.in
-
----
-
-# 📈 Highlights
-
-🏆 State-Level Hackathon — **1st Runner-Up**
-🏅 Odoo × CGC National Hackathon — **Top 85 / 1000**
-📄 Published NLP Research
-🎓 President — VisionX Club
-⭐ CGPA — **8.9**
-
----
-
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 <img width="48%" src="https://github-stats-extended.vercel.app/api?username=noureen-aslam&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -233,41 +133,35 @@ https://noureenaslam.in
 
 </div>
 
----
+<br/>
 
-# 📚 Research
+## Research
 
-### Natural Language Processing Research
+**Natural Language Processing Research** — published on Zenodo
+DOI: [`10.5281/zenodo.17474067`](https://doi.org/10.5281/zenodo.17474067)
 
-Published on Zenodo
-DOI: `10.5281/zenodo.17474067`
+<br/>
 
----
-
-# 💡 Engineering Philosophy
+## Engineering Philosophy
 
 > Build products that solve real problems.
 
-- Simplicity over complexity.
-- Ship fast, iterate faster.
-- AI should explain itself.
-- Focus on production, not prototypes.
+- Simplicity over complexity
+- Ship fast, iterate faster
+- AI should explain itself
+- Focus on production, not prototypes
 
----
+<br/>
 
-# 🤝 Let's Connect
+## Contact
 
 <div align="center">
 
-<a href="https://noureenaslam.in">Portfolio</a> •
-<a href="https://www.linkedin.com/in/noureenaslam/">LinkedIn</a> •
-<a href="mailto:noureenaslam49@gmail.com">Email</a> •
+<a href="https://noureenaslam.in">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/noureenaslam/">LinkedIn</a> ·
+<a href="mailto:noureenaslam49@gmail.com">Email</a> ·
 <a href="https://github.com/noureen-aslam">GitHub</a>
-
-<br/><br/>
-
-⭐ Thanks for visiting!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF69B4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=C2185B"/>
