@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FFB6C1&text=Noureen%20Aslam&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF69B4&text=Noureen%20Aslam&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Researcher&descAlignY=58&descSize=18" width="100%"/>
 
 # Building AI products that solve real-world problems.
 
@@ -22,7 +22,7 @@ AI/ML Engineer • Full-Stack Developer • Researcher • President @ VisionX C
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=700&color=FFB6C1&center=true&vCenter=true&width=700&lines=Building+RAG+Pipelines;Knowledge+Graphs+%2B+AI+Agents;Shipping+Production+Ready+Applications;Research+Driven+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&width=700&lines=Building+RAG+Pipelines;Knowledge+Graphs+%2B+AI+Agents;Shipping+Production+Ready+Applications;Research+Driven+Engineering" />
 
 </div>
 
@@ -270,4 +270,4 @@ DOI: `10.5281/zenodo.17474067`
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFB6C1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF69B4"/>
