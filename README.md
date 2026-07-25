@@ -28,7 +28,8 @@ AI/ML Engineer · Full-Stack Developer · Researcher · President, VisionX Club
 
 Pre-final year Computer Science student building production-grade AI systems — combining LLMs, Retrieval-Augmented Generation, knowledge graphs, and modern full-stack engineering. Currently focused on applying AI to real industrial problems, alongside hackathons, research, and open-source work.
 
-|:---|:---|:---|:---|:---|
+| Field | Detail |
+|:---|:---|
 | **Education** | B.Tech Computer Science, Presidency University (2027) · CGPA 8.9 |
 | **Location** | Bengaluru, India |
 | **Role** | President, VisionX Club |
@@ -44,7 +45,8 @@ Pre-final year Computer Science student building production-grade AI systems —
 
 Enterprise AI platform for industrial document intelligence, built solo for the ET AI Hackathon 2.0 (ET × Unstop).
 
-|:---|:---|:---|:---|:---|
+| Field | Detail |
+|:---|:---|
 | **Capabilities** | Multi-document RAG · Knowledge graphs · Cross-document reasoning · Voice AI · Audit-grade citations · OCR pipeline · Hybrid search · Graph visualization |
 | **Stack** | `Next.js 15` `FastAPI` `Claude` `Cohere` `Supabase` `pgvector` `Neo4j` `Docker` |
 | **Role** | Solo build, end-to-end |
@@ -61,7 +63,8 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 
 ### Recluta — AI Interview Coaching Platform
 
-|:---|:---|:---|:---|:---|
+| Field | Detail |
+|:---|:---|
 | **Capabilities** | AI recruiter avatar · Voice conversations · Resume analysis · AI feedback · Lip sync · Self-learning scoring pipeline |
 | **Stack** | `FastAPI` `Gemini` `MediaPipe` `ElevenLabs` `Python` |
 
@@ -131,7 +134,8 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 
 ## Research
 
-|:---|:---|:---|:---|:---|
+| Field | Detail |
+|:---|:---|
 | **Title** | Natural Language Processing Research |
 | **Published** | Zenodo |
 | **DOI** | [`10.5281/zenodo.17474067`](https://doi.org/10.5281/zenodo.17474067) |
