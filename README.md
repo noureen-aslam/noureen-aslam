@@ -21,18 +21,18 @@ AI/ML Engineer · Full-Stack Developer · Researcher · President, VisionX Club
 </a>
 
 </div>
-
 <br/>
 
 ## About
 
-Pre-final year Computer Science student building production-grade AI systems — combining LLMs, Retrieval-Augmented Generation, knowledge graphs, and modern full-stack engineering. Currently focused on applying AI to real industrial problems, alongside hackathons, research, and open-source work.
+Pre-final year Computer Science student building production-grade AI systems — combining LLMs, Retrieval-Augmented Generation, knowledge graphs, and modern full-stack engineering. Currently working as a QA Engineer at Neuracamp (US-based company), alongside AI work applied to real industrial problems, hackathons, research, and open-source work.
 
 | Field | Detail |
 |:---|:---|
 | **Education** | B.Tech Computer Science, Presidency University (2027) · CGPA 8.9 |
 | **Location** | Bengaluru, India |
-| **Role** | President, VisionX Club |
+| **Current Role** | QA Engineer, Neuracamp (US) |
+| **Leadership** | President, VisionX Club |
 | **Research** | Published NLP research paper (DOI: [10.5281/zenodo.17474067](https://doi.org/10.5281/zenodo.17474067)) |
 | **Freelance** | Full-Stack Developer |
 | **Focus areas** | AI infrastructure, RAG, GraphRAG, agentic AI |
@@ -42,7 +42,6 @@ Pre-final year Computer Science student building production-grade AI systems —
 ## Shipped
 
 ### IndustrAI — Industrial Knowledge Intelligence Platform
-
 Enterprise AI platform for industrial document intelligence, built solo for the ET AI Hackathon 2.0 (ET × Unstop).
 
 | Field | Detail |
@@ -83,11 +82,8 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 | **Design** | Figma · Firebase · Flutter |
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,c,html,css,react,nextjs,tailwind,nodejs,express,fastapi,tensorflow,pytorch,mongodb,mysql,supabase,postgres,docker,git,github,gcp,figma,firebase,flutter"/>
-
 </div>
-
 <br/>
 
 ## Featured Projects
@@ -119,17 +115,11 @@ Enterprise AI platform for industrial document intelligence, built solo for the 
 <div align="center">
 <img width="48%" src="https://github-stats-extended.vercel.app/api?username=noureen-aslam&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noureen-aslam&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br/><br/>
-
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=noureen-aslam&theme=tokyo-night&hide_border=true&cache_seconds=1800"/>
-
 <br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=noureen-aslam&theme=tokyonight&hide_border=true"/>
-
 </div>
-
 <br/>
 
 ## Research
