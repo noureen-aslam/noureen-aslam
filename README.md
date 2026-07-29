@@ -3,7 +3,7 @@
 
 ### Building AI products that solve real-world problems
 
-AI/ML Engineer · QA Engineer · Full-Stack Developer · Researcher · President, VisionX Club
+AI/ML Engineer · Quality Assurance Engineer · Full-Stack Developer · Researcher · President, VisionX Club
 
 <br/>
 
